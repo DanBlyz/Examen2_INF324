@@ -1,1 +1,0 @@
-<h1>Registrando datos</h1>

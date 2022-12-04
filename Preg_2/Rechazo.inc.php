@@ -1,1 +1,0 @@
-<h1>Se Rechazo la inscripcion del estudiante.</h1> 
